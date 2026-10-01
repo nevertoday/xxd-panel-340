@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 340"
+  short_description: "视觉奇点：上半保留原照，下半只留一枚极小的黑白视觉奇点"
+  default_prompt: "Use $xxd-panel-340 to transform my photograph following the complete canonical source brief."
